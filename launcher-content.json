@@ -1,0 +1,49 @@
+{
+  "homeTab": {
+    "label": "Home",
+    "icon": "home_outlined",
+    "title": "Home",
+    "greetingEnabled": true,
+    "heroRotationSeconds": 5,
+    "slides": [
+      {
+        "image": "https://raw.githubusercontent.com/hqnatx/idols-link-release/main/launcher-content/images/hero_banner.png",
+        "imageFit": "cover",
+        "category": "PRIVATE NETWORK",
+        "title": "Tailscale private play",
+        "description": "Join the same Tailscale tailnet as your friends, then use Tailscale IPs (usually 100.x) to host or join games from the Private network tab in idols Link.",
+        "buttonLabel": "Download Tailscale",
+        "buttonUrl": "https://tailscale.com/download/windows"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/hqnatx/idols-link-release/main/launcher-content/images/idols_apps.png",
+        "imageFit": "contain",
+        "category": "SPOTLIGHT SUBMISSION",
+        "title": "idols Tutorial",
+        "description": "Watch this YouTube tutorial to learn how to use idols, made by Nova (@someth9ng)!",
+        "buttonLabel": "Watch Video",
+        "buttonUrl": "https://www.youtube.com/watch?v=a9ohl7o3c7U"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/hqnatx/idols-link-release/main/launcher-content/images/rev.png",
+        "imageFit": "contain",
+        "category": "SPOTLIGHT SUBMISSION",
+        "title": "Featured Video",
+        "description": "Monstera - Mona Vera (@vzbw)!",
+        "buttonLabel": "Watch Video",
+        "buttonUrl": "https://www.youtube.com/watch?v=sVav-UtlDHw"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/hqnatx/idols-link-release/main/launcher-content/images/discord.webp",
+        "imageFit": "cover",
+        "category": "COMMUNITY",
+        "title": "idols Discord",
+        "description": "Join the idols discord for more resources, news and updates!",
+        "buttonLabel": "Join idols Discord",
+        "buttonUrl": "https://discord.gg/D7YcfsT5RX"
+      }
+    ],
+    "cards": []
+  },
+  "tabs": []
+}
